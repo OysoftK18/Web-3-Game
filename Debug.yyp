@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"card_backgrounds","folderPath":"folders/Sprites/card_backgrounds.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -35,8 +36,9 @@
   },
   "resources": [
     {"id":{"name":"obj_movement_card","path":"objects/obj_movement_card/obj_movement_card.yy",},},
-    {"id":{"name":"spr_blue_card","path":"sprites/spr_blue_card/spr_blue_card.yy",},},
     {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
+    {"id":{"name":"spr_cost_logo","path":"sprites/spr_cost_logo/spr_cost_logo.yy",},},
+    {"id":{"name":"spr_blue_card","path":"sprites/spr_blue_card/spr_blue_card.yy",},},
     {"id":{"name":"spr_green_card","path":"sprites/spr_green_card/spr_green_card.yy",},},
     {"id":{"name":"spr_purple_card","path":"sprites/spr_purple_card/spr_purple_card.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
