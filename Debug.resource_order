@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"script_card_type","order":1,"path":"scripts/script_card_type/script_card_type.yy",},
     {"name":"Extension1","order":16,"path":"extensions/Extension1/Extension1.yy",},
     {"name":"spr_cost_logo","order":1,"path":"sprites/spr_cost_logo/spr_cost_logo.yy",},
     {"name":"spr_green_card","order":1,"path":"sprites/spr_green_card/spr_green_card.yy",},
