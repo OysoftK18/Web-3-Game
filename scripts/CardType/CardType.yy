@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "script_card_class",
+  "name": "CardType",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

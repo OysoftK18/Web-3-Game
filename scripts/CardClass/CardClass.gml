@@ -3,11 +3,9 @@
 function Card() constructor{
 	name = ""
 	movement_cost = 0
-	damage = [0,0]
+	damage_range = [10,20]
 	part = ""
+	sprite = spr_blue_card
 	
-	damage_calculate = function(){
-		damageRandom = random_range(damage[0], damage[1])	
-		return damageRandom
-	}
+	
 }
