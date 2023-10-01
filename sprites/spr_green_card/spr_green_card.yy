@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_green_card",
-  "bbox_bottom": 139,
+  "bbox_bottom": 99,
   "bbox_left": 0,
   "bbox_right": 99,
   "bbox_top": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"22fc6bb7-3928-448a-923e-4c71335de780",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"69ae2f27-8c71-494b-a113-888fb554a6c4",},
   ],
-  "gridX": 10,
-  "gridY": 14,
-  "height": 140,
+  "gridX": 0,
+  "gridY": 0,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3250b65f-f9c8-4442-a2b8-da015c9827aa","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"01f14435-a754-43f1-a6e7-611a0d59a829","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"22fc6bb7-3928-448a-923e-4c71335de780","path":"sprites/spr_green_card/spr_green_card.yy",},},},"Disabled":false,"id":"e41c88cc-d66a-45e8-8128-9bdab41e99df","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"69ae2f27-8c71-494b-a113-888fb554a6c4","path":"sprites/spr_green_card/spr_green_card.yy",},},},"Disabled":false,"id":"8d114b7a-1dbd-480d-85ad-0c28b1897a52","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

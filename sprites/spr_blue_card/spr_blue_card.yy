@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_blue_card",
-  "bbox_bottom": 139,
+  "bbox_bottom": 99,
   "bbox_left": 0,
   "bbox_right": 99,
   "bbox_top": 0,
@@ -15,9 +15,9 @@
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"22fc6bb7-3928-448a-923e-4c71335de780",},
   ],
-  "gridX": 10,
-  "gridY": 14,
-  "height": 140,
+  "gridX": 0,
+  "gridY": 0,
+  "height": 100,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3250b65f-f9c8-4442-a2b8-da015c9827aa","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
