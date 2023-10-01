@@ -36,30 +36,18 @@
     "IDEVersion": "2023.8.0.98",
   },
   "resources": [
-<<<<<<< Updated upstream
     {"id":{"name":"PartClass","path":"scripts/PartClass/PartClass.yy",},},
     {"id":{"name":"obj_card_manager","path":"objects/obj_card_manager/obj_card_manager.yy",},},
     {"id":{"name":"PlayerClass","path":"scripts/PlayerClass/PlayerClass.yy",},},
     {"id":{"name":"CardType","path":"scripts/CardType/CardType.yy",},},
     {"id":{"name":"CardClass","path":"scripts/CardClass/CardClass.yy",},},
-=======
-    {"id":{"name":"spr_name_banner","path":"sprites/spr_name_banner/spr_name_banner.yy",},},
-    {"id":{"name":"CardType","path":"scripts/CardType/CardType.yy",},},
-    {"id":{"name":"CardClasses","path":"scripts/CardClasses/CardClasses.yy",},},
-    {"id":{"name":"obj_movement_collector","path":"objects/obj_movement_collector/obj_movement_collector.yy",},},
-    {"id":{"name":"spr_purple_card","path":"sprites/spr_purple_card/spr_purple_card.yy",},},
-    {"id":{"name":"obj_opponent","path":"objects/obj_opponent/obj_opponent.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
     {"id":{"name":"spr_cost_logo","path":"sprites/spr_cost_logo/spr_cost_logo.yy",},},
     {"id":{"name":"spr_blue_card","path":"sprites/spr_blue_card/spr_blue_card.yy",},},
     {"id":{"name":"spr_green_card","path":"sprites/spr_green_card/spr_green_card.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"CardDraw","path":"scripts/CardDraw/CardDraw.yy",},},
     {"id":{"name":"PartType","path":"scripts/PartType/PartType.yy",},},
     {"id":{"name":"spr_purple_card","path":"sprites/spr_purple_card/spr_purple_card.yy",},},
-=======
->>>>>>> Stashed changes
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

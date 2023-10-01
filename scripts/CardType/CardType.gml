@@ -1,6 +1,5 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-<<<<<<< Updated upstream
 function Punch(_sprite): Card() constructor{
 	name = "Punch"
 	movement_cost = 1
@@ -36,26 +35,3 @@ function Heavy_Kick(): Card() constructor{
 		return string(damage_random)
 	}
 }
-=======
-function arm(_side) : Card() constructor{
-
-	name = "punch"
-	damage = [40, 80]
-	movement_cost = 1
-	part = _side
-}
-function leg(_side) : Card() constructor{
-
-	name = "kick"
-	damage = [70, 140]
-	movement_cost = 2
-	part = _side
-	
-	owen = function() constructor{
-		damageCalculate = int64(random_range(damage[0], damage[1]))
-		return string(damageCalculate)
-	}
-	
-}
-
->>>>>>> Stashed changes

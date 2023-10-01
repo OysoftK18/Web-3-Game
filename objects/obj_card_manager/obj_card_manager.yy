@@ -1,11 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-<<<<<<<< Updated upstream:objects/obj_card_manager/obj_card_manager.yy
   "name": "obj_card_manager",
-========
-  "name": "obj_movement_collector",
->>>>>>>> Stashed changes:objects/obj_movement_collector/obj_movement_collector.yy
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
