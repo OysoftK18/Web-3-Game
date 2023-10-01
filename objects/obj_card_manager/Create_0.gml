@@ -1,17 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-randomize()
+state = "stand by"
+contador = 0
 
 movement_list = ds_list_create()
-selected_card = -1
-
-player = new Player(new Right_Arm("owen"))
-
-show_debug_message("Inicio")
-
-show_debug_message(string(ds_list_size(player.deck())))
-
-show_debug_message("Final")
-
+player = new Player(new Right_Arm("owen"), new Left_Arm("yamil"), new Right_Leg("Sahagun"), new Left_Leg("Ortega"))
 deck = player.deck()
