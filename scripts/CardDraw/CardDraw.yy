@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "CardStructures",
-    "path": "folders/Scripts/CardStructures.yy",
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
   },
 }
