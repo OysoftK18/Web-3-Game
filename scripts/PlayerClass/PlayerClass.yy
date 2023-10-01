@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "CardClass",
+  "name": "PlayerClass",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Card",
-    "path": "folders/Scripts/Card.yy",
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
   },
 }
