@@ -18,6 +18,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< Updated upstream
     {"name":"PartClass","order":5,"path":"scripts/PartClass/PartClass.yy",},
     {"name":"PlayerClass","order":4,"path":"scripts/PlayerClass/PlayerClass.yy",},
     {"name":"CardType","order":2,"path":"scripts/CardType/CardType.yy",},
@@ -27,5 +28,14 @@
     {"name":"CardDraw","order":1,"path":"scripts/CardDraw/CardDraw.yy",},
     {"name":"PartType","order":6,"path":"scripts/PartType/PartType.yy",},
     {"name":"spr_purple_card","order":2,"path":"sprites/spr_purple_card/spr_purple_card.yy",},
+=======
+    {"name":"spr_name_banner","order":5,"path":"sprites/spr_name_banner/spr_name_banner.yy",},
+    {"name":"CardType","order":1,"path":"scripts/CardType/CardType.yy",},
+    {"name":"spr_purple_card","order":4,"path":"sprites/spr_purple_card/spr_purple_card.yy",},
+    {"name":"obj_opponent","order":1,"path":"objects/obj_opponent/obj_opponent.yy",},
+    {"name":"Extension1","order":16,"path":"extensions/Extension1/Extension1.yy",},
+    {"name":"spr_cost_logo","order":1,"path":"sprites/spr_cost_logo/spr_cost_logo.yy",},
+    {"name":"spr_green_card","order":3,"path":"sprites/spr_green_card/spr_green_card.yy",},
+>>>>>>> Stashed changes
   ],
 }
